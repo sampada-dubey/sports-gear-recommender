@@ -1,0 +1,1001 @@
+Gear_ID,Name,Sport,Type,Material,Price,Ratings
+1,Adidas X Pro Gloves,Squash,Gloves,Cotton,169,4.0
+2,Puma Goalkeeper Gloves,Baseball,Gloves,Polyester,43,4.1
+3,Nike Air Zoom,Hockey,Ball,Synthetic,187,3.6
+4,Reebok Running Shorts,Volleyball,Ball,Mesh,195,4.1
+5,Reebok Running Shorts,Golf,Clothing,Cotton,140,4.2
+6,Puma Goalkeeper Gloves,Football,Gloves,Synthetic,90,4.0
+7,Wilson Basketball,Squash,Clothing,Mesh,186,3.5
+8,Asics Gel Nimbus,Volleyball,Shoes,Leather,82,4.3
+9,Adidas Predator,Long Tennis,Clothing,Synthetic,113,4.2
+10,Under Armour T-Shirt,Hockey,Clothing,Mesh,132,4.8
+11,Wilson Basketball,Volleyball,Gloves,Polyester,92,3.9
+12,Asics Gel Nimbus,Table Tennis,Gloves,Cotton,60,4.9
+13,Wilson Basketball,Baseball,Ball,Cotton,200,4.9
+14,Reebok Running Shorts,Golf,Shoes,Synthetic,95,4.7
+15,Puma Goalkeeper Gloves,Cricket,Ball,Leather,152,3.7
+16,Reebok Running Shorts,Cricket,Shoes,Polyester,113,4.8
+17,Wilson Basketball,Football,Shoes,Mesh,82,4.1
+18,Adidas X Pro Gloves,Long Tennis,Clothing,Synthetic,132,4.8
+19,Adidas X Pro Gloves,Skating,Ball,Mesh,121,4.4
+20,Nike Air Zoom,Baseball,Shoes,Leather,107,4.7
+21,Adidas X Pro Gloves,Rugby,Gloves,Mesh,134,4.6
+22,Nike Air Zoom,Table Tennis,Clothing,Synthetic,183,3.9
+23,Adidas X Pro Gloves,Skating,Shoes,Leather,175,5.0
+24,Adidas Predator,Cricket,Ball,Synthetic,185,4.1
+25,Nike Air Zoom,Skating,Gloves,Synthetic,184,4.9
+26,Adidas Predator,Long Tennis,Gloves,Leather,106,4.4
+27,Nike Air Zoom,Table Tennis,Clothing,Synthetic,119,4.1
+28,Adidas X Pro Gloves,Rugby,Shoes,Synthetic,114,4.5
+29,Under Armour T-Shirt,Cricket,Ball,Cotton,190,4.5
+30,Reebok Running Shorts,Squash,Clothing,Leather,94,4.7
+31,Under Armour T-Shirt,Baseball,Shoes,Mesh,64,3.8
+32,Puma Goalkeeper Gloves,Rugby,Gloves,Cotton,165,3.6
+33,Nike Air Zoom,Squash,Gloves,Polyester,95,4.4
+34,Asics Gel Nimbus,Cricket,Clothing,Polyester,46,4.6
+35,Under Armour T-Shirt,Badminton,Gloves,Mesh,159,4.2
+36,Under Armour T-Shirt,Table Tennis,Ball,Cotton,162,3.8
+37,Asics Gel Nimbus,Football,Ball,Leather,129,3.9
+38,Puma Goalkeeper Gloves,Cricket,Clothing,Polyester,197,4.5
+39,Reebok Running Shorts,Football,Gloves,Leather,104,3.7
+40,Reebok Running Shorts,Baseball,Clothing,Synthetic,159,4.3
+41,Under Armour T-Shirt,Golf,Shoes,Leather,55,3.9
+42,Adidas Predator,Volleyball,Shoes,Polyester,103,3.5
+43,Wilson Basketball,Cricket,Gloves,Cotton,51,4.4
+44,Puma Goalkeeper Gloves,Long Tennis,Clothing,Synthetic,123,4.8
+45,Adidas X Pro Gloves,Long Tennis,Clothing,Leather,62,4.8
+46,Reebok Running Shorts,Rugby,Gloves,Mesh,22,4.9
+47,Adidas X Pro Gloves,Skating,Clothing,Synthetic,177,4.0
+48,Under Armour T-Shirt,Cricket,Gloves,Mesh,189,3.7
+49,Under Armour T-Shirt,Squash,Shoes,Cotton,139,4.4
+50,Wilson Basketball,Table Tennis,Clothing,Polyester,74,4.3
+51,Adidas X Pro Gloves,Squash,Shoes,Polyester,181,3.7
+52,Adidas Predator,Football,Shoes,Mesh,26,3.9
+53,Nike Air Zoom,Golf,Clothing,Polyester,27,5.0
+54,Adidas X Pro Gloves,Cricket,Clothing,Mesh,93,3.9
+55,Adidas Predator,Rugby,Gloves,Synthetic,96,3.8
+56,Asics Gel Nimbus,Hockey,Shoes,Polyester,114,3.9
+57,Nike Air Zoom,Volleyball,Gloves,Mesh,31,4.2
+58,Wilson Basketball,Table Tennis,Ball,Polyester,105,4.2
+59,Adidas Predator,Volleyball,Ball,Leather,119,3.6
+60,Puma Goalkeeper Gloves,Long Tennis,Gloves,Mesh,51,3.7
+61,Wilson Basketball,Football,Shoes,Cotton,124,3.9
+62,Adidas X Pro Gloves,Table Tennis,Shoes,Polyester,35,4.7
+63,Nike Air Zoom,Squash,Clothing,Synthetic,175,4.7
+64,Under Armour T-Shirt,Golf,Gloves,Mesh,55,3.6
+65,Nike Air Zoom,Hockey,Shoes,Mesh,24,4.4
+66,Adidas Predator,Skating,Gloves,Leather,116,4.0
+67,Under Armour T-Shirt,Table Tennis,Ball,Synthetic,170,3.6
+68,Under Armour T-Shirt,Table Tennis,Ball,Cotton,158,4.0
+69,Adidas X Pro Gloves,Volleyball,Gloves,Cotton,87,4.4
+70,Reebok Running Shorts,Table Tennis,Shoes,Polyester,174,4.7
+71,Wilson Basketball,Volleyball,Gloves,Polyester,122,3.8
+72,Reebok Running Shorts,Volleyball,Clothing,Mesh,195,4.2
+73,Wilson Basketball,Squash,Ball,Polyester,30,4.7
+74,Nike Air Zoom,Golf,Gloves,Mesh,144,4.2
+75,Adidas Predator,Long Tennis,Clothing,Leather,158,4.3
+76,Nike Air Zoom,Golf,Gloves,Synthetic,174,3.7
+77,Puma Goalkeeper Gloves,Football,Ball,Mesh,94,4.3
+78,Under Armour T-Shirt,Long Tennis,Gloves,Leather,99,4.5
+79,Puma Goalkeeper Gloves,Badminton,Shoes,Synthetic,36,4.2
+80,Reebok Running Shorts,Football,Clothing,Mesh,139,4.8
+81,Puma Goalkeeper Gloves,Volleyball,Ball,Synthetic,195,4.4
+82,Asics Gel Nimbus,Rugby,Shoes,Polyester,25,4.3
+83,Asics Gel Nimbus,Cricket,Clothing,Cotton,175,4.4
+84,Reebok Running Shorts,Baseball,Ball,Mesh,59,4.3
+85,Asics Gel Nimbus,Rugby,Clothing,Leather,73,4.8
+86,Asics Gel Nimbus,Badminton,Ball,Polyester,69,4.1
+87,Adidas Predator,Squash,Gloves,Synthetic,185,4.1
+88,Under Armour T-Shirt,Badminton,Gloves,Polyester,101,3.5
+89,Puma Goalkeeper Gloves,Squash,Gloves,Synthetic,78,4.9
+90,Asics Gel Nimbus,Badminton,Clothing,Synthetic,172,4.6
+91,Reebok Running Shorts,Squash,Ball,Mesh,81,4.7
+92,Nike Air Zoom,Football,Gloves,Leather,159,4.9
+93,Adidas Predator,Squash,Ball,Polyester,188,4.7
+94,Wilson Basketball,Hockey,Clothing,Polyester,179,3.8
+95,Nike Air Zoom,Squash,Shoes,Cotton,32,3.6
+96,Adidas X Pro Gloves,Rugby,Ball,Polyester,70,4.5
+97,Adidas Predator,Badminton,Gloves,Cotton,29,4.3
+98,Puma Goalkeeper Gloves,Badminton,Shoes,Synthetic,77,4.9
+99,Asics Gel Nimbus,Badminton,Clothing,Polyester,55,4.8
+100,Puma Goalkeeper Gloves,Volleyball,Clothing,Leather,28,3.7
+101,Nike Air Zoom,Long Tennis,Ball,Synthetic,175,4.5
+102,Adidas X Pro Gloves,Volleyball,Gloves,Synthetic,161,3.7
+103,Wilson Basketball,Volleyball,Ball,Synthetic,195,3.5
+104,Nike Air Zoom,Baseball,Clothing,Leather,137,4.2
+105,Under Armour T-Shirt,Volleyball,Shoes,Mesh,103,4.9
+106,Asics Gel Nimbus,Baseball,Shoes,Leather,95,3.6
+107,Wilson Basketball,Table Tennis,Gloves,Polyester,64,4.2
+108,Under Armour T-Shirt,Football,Gloves,Synthetic,37,4.9
+109,Adidas X Pro Gloves,Rugby,Ball,Cotton,172,4.7
+110,Asics Gel Nimbus,Football,Gloves,Leather,69,4.7
+111,Adidas Predator,Football,Clothing,Mesh,121,4.6
+112,Asics Gel Nimbus,Long Tennis,Clothing,Mesh,44,4.8
+113,Under Armour T-Shirt,Rugby,Gloves,Synthetic,140,4.8
+114,Asics Gel Nimbus,Badminton,Shoes,Leather,91,5.0
+115,Wilson Basketball,Hockey,Shoes,Mesh,39,4.5
+116,Nike Air Zoom,Table Tennis,Clothing,Leather,151,4.8
+117,Puma Goalkeeper Gloves,Squash,Ball,Synthetic,93,4.7
+118,Nike Air Zoom,Volleyball,Gloves,Synthetic,153,4.3
+119,Wilson Basketball,Volleyball,Gloves,Cotton,69,3.9
+120,Reebok Running Shorts,Golf,Gloves,Synthetic,40,4.0
+121,Adidas X Pro Gloves,Squash,Ball,Mesh,78,4.7
+122,Reebok Running Shorts,Golf,Gloves,Synthetic,53,4.0
+123,Asics Gel Nimbus,Long Tennis,Gloves,Mesh,55,3.7
+124,Adidas X Pro Gloves,Cricket,Gloves,Mesh,70,4.6
+125,Adidas Predator,Golf,Gloves,Polyester,113,4.1
+126,Adidas X Pro Gloves,Long Tennis,Gloves,Polyester,73,4.1
+127,Adidas Predator,Hockey,Shoes,Cotton,174,4.7
+128,Under Armour T-Shirt,Football,Ball,Leather,158,4.3
+129,Adidas Predator,Cricket,Gloves,Synthetic,122,4.0
+130,Under Armour T-Shirt,Golf,Ball,Polyester,53,3.7
+131,Reebok Running Shorts,Cricket,Ball,Polyester,117,4.0
+132,Asics Gel Nimbus,Rugby,Gloves,Synthetic,72,4.7
+133,Asics Gel Nimbus,Football,Ball,Leather,52,4.2
+134,Reebok Running Shorts,Football,Gloves,Mesh,154,3.7
+135,Reebok Running Shorts,Baseball,Gloves,Polyester,147,3.7
+136,Nike Air Zoom,Long Tennis,Clothing,Mesh,102,4.8
+137,Adidas X Pro Gloves,Golf,Ball,Mesh,48,3.9
+138,Puma Goalkeeper Gloves,Hockey,Shoes,Polyester,110,4.0
+139,Puma Goalkeeper Gloves,Hockey,Gloves,Leather,137,3.8
+140,Under Armour T-Shirt,Volleyball,Shoes,Synthetic,75,3.6
+141,Adidas Predator,Skating,Gloves,Mesh,104,4.9
+142,Asics Gel Nimbus,Badminton,Ball,Polyester,68,4.7
+143,Wilson Basketball,Skating,Gloves,Leather,132,3.6
+144,Reebok Running Shorts,Golf,Clothing,Leather,120,5.0
+145,Puma Goalkeeper Gloves,Hockey,Clothing,Polyester,152,3.6
+146,Wilson Basketball,Table Tennis,Shoes,Leather,185,4.3
+147,Asics Gel Nimbus,Volleyball,Gloves,Synthetic,46,4.1
+148,Adidas Predator,Baseball,Ball,Mesh,73,4.6
+149,Asics Gel Nimbus,Badminton,Ball,Polyester,145,3.8
+150,Adidas X Pro Gloves,Golf,Clothing,Leather,152,4.4
+151,Puma Goalkeeper Gloves,Cricket,Shoes,Polyester,34,4.5
+152,Reebok Running Shorts,Cricket,Shoes,Cotton,116,4.5
+153,Wilson Basketball,Volleyball,Shoes,Leather,87,4.1
+154,Adidas Predator,Squash,Gloves,Cotton,118,4.3
+155,Wilson Basketball,Cricket,Shoes,Cotton,174,4.1
+156,Adidas X Pro Gloves,Rugby,Gloves,Polyester,199,4.9
+157,Reebok Running Shorts,Badminton,Ball,Mesh,94,4.6
+158,Wilson Basketball,Badminton,Shoes,Synthetic,101,3.9
+159,Reebok Running Shorts,Skating,Ball,Polyester,70,3.6
+160,Asics Gel Nimbus,Football,Ball,Mesh,194,4.7
+161,Under Armour T-Shirt,Badminton,Ball,Synthetic,112,3.9
+162,Nike Air Zoom,Squash,Clothing,Leather,23,3.7
+163,Nike Air Zoom,Table Tennis,Ball,Synthetic,142,3.5
+164,Adidas Predator,Badminton,Gloves,Leather,73,3.6
+165,Adidas X Pro Gloves,Long Tennis,Clothing,Leather,35,3.9
+166,Under Armour T-Shirt,Table Tennis,Ball,Mesh,152,4.5
+167,Adidas X Pro Gloves,Skating,Gloves,Synthetic,192,4.2
+168,Nike Air Zoom,Squash,Clothing,Mesh,164,3.8
+169,Adidas X Pro Gloves,Skating,Ball,Cotton,191,4.6
+170,Adidas Predator,Hockey,Clothing,Leather,20,3.9
+171,Adidas Predator,Squash,Ball,Leather,112,4.9
+172,Reebok Running Shorts,Long Tennis,Ball,Cotton,181,4.9
+173,Under Armour T-Shirt,Squash,Clothing,Polyester,143,4.8
+174,Adidas Predator,Skating,Clothing,Leather,166,4.2
+175,Adidas X Pro Gloves,Football,Clothing,Cotton,84,4.2
+176,Under Armour T-Shirt,Squash,Gloves,Cotton,69,3.8
+177,Reebok Running Shorts,Cricket,Gloves,Mesh,45,4.1
+178,Puma Goalkeeper Gloves,Volleyball,Ball,Synthetic,20,3.7
+179,Asics Gel Nimbus,Golf,Clothing,Cotton,115,4.7
+180,Wilson Basketball,Badminton,Gloves,Synthetic,125,4.9
+181,Asics Gel Nimbus,Hockey,Clothing,Leather,155,4.6
+182,Puma Goalkeeper Gloves,Hockey,Ball,Polyester,185,4.3
+183,Adidas Predator,Squash,Gloves,Leather,60,4.9
+184,Wilson Basketball,Football,Shoes,Leather,26,4.6
+185,Nike Air Zoom,Rugby,Clothing,Mesh,81,4.9
+186,Adidas X Pro Gloves,Volleyball,Clothing,Cotton,63,4.0
+187,Adidas Predator,Hockey,Clothing,Cotton,143,4.5
+188,Wilson Basketball,Table Tennis,Ball,Leather,58,4.1
+189,Asics Gel Nimbus,Table Tennis,Shoes,Mesh,125,4.6
+190,Wilson Basketball,Hockey,Shoes,Cotton,130,4.0
+191,Nike Air Zoom,Long Tennis,Ball,Leather,155,4.5
+192,Under Armour T-Shirt,Long Tennis,Shoes,Mesh,145,4.0
+193,Wilson Basketball,Long Tennis,Shoes,Synthetic,35,4.7
+194,Adidas X Pro Gloves,Squash,Ball,Polyester,196,4.1
+195,Reebok Running Shorts,Table Tennis,Shoes,Leather,127,4.7
+196,Puma Goalkeeper Gloves,Badminton,Gloves,Mesh,49,3.6
+197,Wilson Basketball,Rugby,Gloves,Cotton,128,4.7
+198,Adidas Predator,Golf,Clothing,Synthetic,91,4.5
+199,Adidas Predator,Squash,Gloves,Leather,176,4.7
+200,Nike Air Zoom,Cricket,Gloves,Polyester,112,3.9
+201,Wilson Basketball,Badminton,Ball,Polyester,88,4.4
+202,Wilson Basketball,Baseball,Ball,Leather,150,3.9
+203,Nike Air Zoom,Table Tennis,Clothing,Polyester,94,3.6
+204,Adidas Predator,Golf,Ball,Cotton,56,3.8
+205,Adidas X Pro Gloves,Football,Shoes,Cotton,98,4.8
+206,Puma Goalkeeper Gloves,Football,Clothing,Mesh,144,4.6
+207,Adidas Predator,Table Tennis,Shoes,Leather,115,4.3
+208,Under Armour T-Shirt,Golf,Ball,Synthetic,91,4.8
+209,Nike Air Zoom,Skating,Clothing,Synthetic,193,4.9
+210,Wilson Basketball,Football,Gloves,Leather,91,3.6
+211,Adidas X Pro Gloves,Volleyball,Gloves,Leather,184,4.9
+212,Wilson Basketball,Hockey,Gloves,Synthetic,123,4.5
+213,Puma Goalkeeper Gloves,Baseball,Clothing,Mesh,180,4.8
+214,Puma Goalkeeper Gloves,Badminton,Shoes,Polyester,71,3.7
+215,Asics Gel Nimbus,Long Tennis,Clothing,Leather,168,4.8
+216,Under Armour T-Shirt,Long Tennis,Clothing,Synthetic,126,4.4
+217,Reebok Running Shorts,Skating,Clothing,Mesh,181,4.8
+218,Adidas X Pro Gloves,Cricket,Shoes,Leather,89,3.8
+219,Adidas X Pro Gloves,Long Tennis,Clothing,Leather,88,4.6
+220,Adidas X Pro Gloves,Rugby,Shoes,Polyester,159,4.3
+221,Reebok Running Shorts,Hockey,Clothing,Cotton,147,3.6
+222,Wilson Basketball,Table Tennis,Ball,Mesh,105,4.8
+223,Wilson Basketball,Rugby,Ball,Mesh,200,4.4
+224,Adidas Predator,Rugby,Clothing,Cotton,101,4.6
+225,Adidas X Pro Gloves,Table Tennis,Gloves,Synthetic,67,3.9
+226,Nike Air Zoom,Cricket,Ball,Synthetic,182,4.5
+227,Puma Goalkeeper Gloves,Hockey,Gloves,Mesh,162,4.9
+228,Under Armour T-Shirt,Cricket,Clothing,Mesh,124,4.2
+229,Asics Gel Nimbus,Squash,Clothing,Polyester,121,4.6
+230,Asics Gel Nimbus,Football,Clothing,Synthetic,85,4.1
+231,Under Armour T-Shirt,Rugby,Ball,Leather,86,4.8
+232,Reebok Running Shorts,Golf,Clothing,Synthetic,107,4.6
+233,Reebok Running Shorts,Table Tennis,Gloves,Polyester,184,4.6
+234,Wilson Basketball,Cricket,Ball,Leather,52,4.4
+235,Under Armour T-Shirt,Skating,Gloves,Mesh,165,3.7
+236,Asics Gel Nimbus,Cricket,Gloves,Polyester,54,4.0
+237,Wilson Basketball,Hockey,Ball,Cotton,169,3.6
+238,Under Armour T-Shirt,Rugby,Ball,Leather,181,4.1
+239,Under Armour T-Shirt,Cricket,Shoes,Cotton,52,4.2
+240,Adidas Predator,Table Tennis,Ball,Synthetic,179,3.7
+241,Nike Air Zoom,Badminton,Clothing,Leather,94,4.5
+242,Adidas Predator,Rugby,Ball,Synthetic,29,4.0
+243,Wilson Basketball,Squash,Gloves,Synthetic,54,4.4
+244,Puma Goalkeeper Gloves,Volleyball,Shoes,Synthetic,171,4.0
+245,Wilson Basketball,Badminton,Clothing,Polyester,191,5.0
+246,Wilson Basketball,Football,Gloves,Leather,159,4.4
+247,Reebok Running Shorts,Squash,Ball,Synthetic,58,4.2
+248,Reebok Running Shorts,Badminton,Clothing,Polyester,80,3.8
+249,Reebok Running Shorts,Baseball,Shoes,Synthetic,54,3.6
+250,Puma Goalkeeper Gloves,Long Tennis,Shoes,Synthetic,63,3.9
+251,Reebok Running Shorts,Baseball,Clothing,Synthetic,166,3.6
+252,Adidas X Pro Gloves,Badminton,Ball,Cotton,107,4.4
+253,Asics Gel Nimbus,Baseball,Ball,Cotton,68,4.3
+254,Reebok Running Shorts,Rugby,Clothing,Cotton,68,4.7
+255,Puma Goalkeeper Gloves,Skating,Clothing,Mesh,145,4.9
+256,Adidas X Pro Gloves,Table Tennis,Shoes,Polyester,133,4.0
+257,Nike Air Zoom,Volleyball,Shoes,Cotton,100,4.8
+258,Wilson Basketball,Hockey,Gloves,Polyester,180,3.8
+259,Nike Air Zoom,Baseball,Clothing,Leather,159,4.6
+260,Wilson Basketball,Long Tennis,Clothing,Leather,188,3.9
+261,Adidas Predator,Badminton,Clothing,Polyester,54,4.1
+262,Wilson Basketball,Baseball,Shoes,Cotton,181,3.6
+263,Reebok Running Shorts,Rugby,Clothing,Polyester,85,4.7
+264,Puma Goalkeeper Gloves,Long Tennis,Shoes,Cotton,117,4.9
+265,Adidas X Pro Gloves,Squash,Ball,Synthetic,29,3.7
+266,Under Armour T-Shirt,Cricket,Ball,Cotton,163,4.4
+267,Puma Goalkeeper Gloves,Hockey,Ball,Leather,94,4.8
+268,Reebok Running Shorts,Football,Shoes,Leather,189,4.2
+269,Adidas X Pro Gloves,Table Tennis,Shoes,Synthetic,184,4.1
+270,Under Armour T-Shirt,Squash,Gloves,Polyester,27,3.9
+271,Wilson Basketball,Hockey,Shoes,Leather,184,4.1
+272,Wilson Basketball,Baseball,Ball,Leather,153,3.8
+273,Reebok Running Shorts,Table Tennis,Clothing,Synthetic,91,4.3
+274,Adidas Predator,Squash,Gloves,Leather,181,4.2
+275,Adidas Predator,Hockey,Gloves,Leather,33,3.8
+276,Asics Gel Nimbus,Badminton,Clothing,Synthetic,194,4.5
+277,Reebok Running Shorts,Hockey,Ball,Polyester,197,4.6
+278,Adidas Predator,Volleyball,Shoes,Synthetic,193,5.0
+279,Adidas Predator,Rugby,Shoes,Polyester,145,4.0
+280,Adidas X Pro Gloves,Long Tennis,Clothing,Mesh,39,3.7
+281,Adidas Predator,Volleyball,Shoes,Leather,198,4.0
+282,Reebok Running Shorts,Football,Clothing,Mesh,101,3.8
+283,Reebok Running Shorts,Baseball,Gloves,Polyester,41,3.9
+284,Wilson Basketball,Table Tennis,Shoes,Synthetic,91,3.6
+285,Under Armour T-Shirt,Football,Ball,Cotton,189,3.8
+286,Asics Gel Nimbus,Table Tennis,Shoes,Polyester,27,3.6
+287,Adidas X Pro Gloves,Squash,Clothing,Mesh,191,4.6
+288,Under Armour T-Shirt,Cricket,Ball,Polyester,45,4.2
+289,Adidas Predator,Skating,Ball,Mesh,65,4.2
+290,Adidas X Pro Gloves,Skating,Gloves,Mesh,48,3.9
+291,Adidas Predator,Long Tennis,Shoes,Polyester,102,4.7
+292,Adidas Predator,Long Tennis,Ball,Mesh,137,4.8
+293,Puma Goalkeeper Gloves,Golf,Gloves,Leather,185,4.3
+294,Under Armour T-Shirt,Squash,Ball,Mesh,85,4.1
+295,Reebok Running Shorts,Skating,Ball,Leather,64,3.6
+296,Under Armour T-Shirt,Golf,Shoes,Mesh,140,4.7
+297,Wilson Basketball,Hockey,Shoes,Synthetic,77,4.5
+298,Adidas X Pro Gloves,Cricket,Shoes,Polyester,195,4.7
+299,Adidas X Pro Gloves,Baseball,Clothing,Polyester,50,4.8
+300,Adidas X Pro Gloves,Golf,Gloves,Leather,33,4.6
+301,Reebok Running Shorts,Rugby,Ball,Cotton,26,4.1
+302,Reebok Running Shorts,Baseball,Gloves,Leather,135,4.1
+303,Under Armour T-Shirt,Badminton,Ball,Mesh,117,4.6
+304,Wilson Basketball,Volleyball,Gloves,Polyester,101,4.1
+305,Puma Goalkeeper Gloves,Volleyball,Gloves,Synthetic,179,3.6
+306,Asics Gel Nimbus,Squash,Clothing,Mesh,82,3.7
+307,Asics Gel Nimbus,Cricket,Shoes,Mesh,30,4.2
+308,Reebok Running Shorts,Cricket,Ball,Leather,117,4.5
+309,Adidas X Pro Gloves,Hockey,Shoes,Polyester,133,3.5
+310,Adidas Predator,Table Tennis,Clothing,Polyester,175,3.5
+311,Under Armour T-Shirt,Long Tennis,Ball,Synthetic,200,5.0
+312,Reebok Running Shorts,Table Tennis,Ball,Leather,177,4.5
+313,Puma Goalkeeper Gloves,Rugby,Ball,Polyester,171,4.8
+314,Wilson Basketball,Long Tennis,Shoes,Mesh,24,4.5
+315,Under Armour T-Shirt,Baseball,Ball,Cotton,193,4.0
+316,Asics Gel Nimbus,Rugby,Gloves,Cotton,89,3.9
+317,Adidas Predator,Long Tennis,Clothing,Synthetic,171,4.8
+318,Adidas Predator,Cricket,Shoes,Mesh,156,4.9
+319,Reebok Running Shorts,Golf,Clothing,Synthetic,108,4.5
+320,Under Armour T-Shirt,Skating,Gloves,Leather,132,4.7
+321,Reebok Running Shorts,Skating,Shoes,Mesh,192,4.8
+322,Under Armour T-Shirt,Table Tennis,Gloves,Synthetic,135,3.6
+323,Under Armour T-Shirt,Squash,Gloves,Polyester,168,3.8
+324,Adidas Predator,Table Tennis,Shoes,Polyester,99,3.6
+325,Adidas X Pro Gloves,Volleyball,Clothing,Mesh,179,4.6
+326,Nike Air Zoom,Golf,Shoes,Polyester,40,4.4
+327,Puma Goalkeeper Gloves,Football,Shoes,Polyester,165,3.7
+328,Reebok Running Shorts,Volleyball,Gloves,Polyester,174,3.7
+329,Adidas Predator,Skating,Shoes,Polyester,71,4.3
+330,Adidas Predator,Rugby,Shoes,Leather,65,4.3
+331,Adidas Predator,Table Tennis,Ball,Polyester,86,4.2
+332,Wilson Basketball,Football,Shoes,Synthetic,63,4.3
+333,Nike Air Zoom,Squash,Clothing,Synthetic,169,4.5
+334,Nike Air Zoom,Skating,Ball,Leather,85,4.3
+335,Wilson Basketball,Table Tennis,Shoes,Cotton,83,4.9
+336,Under Armour T-Shirt,Badminton,Clothing,Mesh,164,4.0
+337,Wilson Basketball,Football,Clothing,Leather,177,3.8
+338,Wilson Basketball,Badminton,Gloves,Mesh,190,4.1
+339,Adidas X Pro Gloves,Golf,Gloves,Leather,192,4.8
+340,Adidas X Pro Gloves,Badminton,Shoes,Mesh,21,5.0
+341,Nike Air Zoom,Skating,Shoes,Leather,30,3.9
+342,Wilson Basketball,Skating,Gloves,Leather,89,3.7
+343,Asics Gel Nimbus,Skating,Clothing,Leather,178,4.6
+344,Under Armour T-Shirt,Hockey,Clothing,Mesh,80,3.7
+345,Nike Air Zoom,Football,Shoes,Synthetic,61,4.5
+346,Adidas Predator,Skating,Shoes,Cotton,37,4.4
+347,Puma Goalkeeper Gloves,Cricket,Shoes,Cotton,165,4.6
+348,Adidas Predator,Cricket,Ball,Polyester,107,4.9
+349,Nike Air Zoom,Table Tennis,Ball,Cotton,61,4.8
+350,Puma Goalkeeper Gloves,Football,Ball,Cotton,21,4.5
+351,Under Armour T-Shirt,Football,Shoes,Cotton,83,4.7
+352,Puma Goalkeeper Gloves,Skating,Ball,Mesh,36,4.2
+353,Wilson Basketball,Football,Ball,Synthetic,115,3.6
+354,Asics Gel Nimbus,Hockey,Gloves,Leather,104,4.8
+355,Puma Goalkeeper Gloves,Squash,Ball,Cotton,142,3.9
+356,Under Armour T-Shirt,Volleyball,Ball,Polyester,179,3.7
+357,Under Armour T-Shirt,Football,Ball,Mesh,20,4.7
+358,Under Armour T-Shirt,Skating,Shoes,Mesh,163,4.0
+359,Adidas Predator,Hockey,Shoes,Leather,54,4.8
+360,Puma Goalkeeper Gloves,Cricket,Clothing,Mesh,62,3.8
+361,Reebok Running Shorts,Volleyball,Shoes,Synthetic,86,4.6
+362,Wilson Basketball,Table Tennis,Ball,Polyester,186,3.7
+363,Wilson Basketball,Squash,Gloves,Cotton,75,4.8
+364,Puma Goalkeeper Gloves,Baseball,Clothing,Leather,91,4.0
+365,Nike Air Zoom,Skating,Clothing,Cotton,193,4.1
+366,Puma Goalkeeper Gloves,Badminton,Shoes,Synthetic,56,4.3
+367,Asics Gel Nimbus,Long Tennis,Clothing,Cotton,111,4.2
+368,Adidas Predator,Badminton,Clothing,Cotton,132,3.8
+369,Nike Air Zoom,Volleyball,Clothing,Mesh,72,4.6
+370,Adidas X Pro Gloves,Table Tennis,Clothing,Polyester,35,4.3
+371,Asics Gel Nimbus,Badminton,Ball,Mesh,132,5.0
+372,Under Armour T-Shirt,Long Tennis,Ball,Polyester,60,4.5
+373,Puma Goalkeeper Gloves,Hockey,Shoes,Leather,197,4.1
+374,Asics Gel Nimbus,Badminton,Clothing,Synthetic,195,4.0
+375,Asics Gel Nimbus,Long Tennis,Gloves,Cotton,93,3.7
+376,Asics Gel Nimbus,Squash,Gloves,Synthetic,160,3.6
+377,Wilson Basketball,Squash,Clothing,Cotton,77,4.4
+378,Adidas X Pro Gloves,Volleyball,Ball,Synthetic,46,4.7
+379,Adidas Predator,Skating,Ball,Cotton,63,3.8
+380,Nike Air Zoom,Cricket,Gloves,Polyester,146,4.6
+381,Under Armour T-Shirt,Golf,Ball,Polyester,74,5.0
+382,Asics Gel Nimbus,Badminton,Shoes,Mesh,107,3.9
+383,Nike Air Zoom,Football,Clothing,Cotton,49,4.9
+384,Under Armour T-Shirt,Table Tennis,Clothing,Cotton,25,5.0
+385,Puma Goalkeeper Gloves,Golf,Clothing,Leather,73,4.3
+386,Asics Gel Nimbus,Long Tennis,Clothing,Cotton,154,4.4
+387,Wilson Basketball,Golf,Shoes,Cotton,46,4.9
+388,Asics Gel Nimbus,Long Tennis,Ball,Synthetic,143,3.9
+389,Asics Gel Nimbus,Long Tennis,Shoes,Cotton,103,4.7
+390,Puma Goalkeeper Gloves,Golf,Ball,Polyester,179,3.9
+391,Puma Goalkeeper Gloves,Volleyball,Clothing,Leather,191,3.8
+392,Puma Goalkeeper Gloves,Table Tennis,Ball,Mesh,87,4.6
+393,Under Armour T-Shirt,Volleyball,Ball,Cotton,95,3.8
+394,Adidas X Pro Gloves,Volleyball,Ball,Mesh,148,4.2
+395,Asics Gel Nimbus,Badminton,Ball,Mesh,44,4.0
+396,Adidas X Pro Gloves,Table Tennis,Ball,Mesh,195,4.6
+397,Adidas X Pro Gloves,Hockey,Gloves,Synthetic,77,4.2
+398,Adidas Predator,Squash,Ball,Leather,75,4.9
+399,Nike Air Zoom,Golf,Ball,Synthetic,64,4.8
+400,Adidas Predator,Long Tennis,Ball,Mesh,199,4.6
+401,Adidas Predator,Table Tennis,Ball,Polyester,161,4.9
+402,Nike Air Zoom,Long Tennis,Clothing,Leather,190,4.2
+403,Under Armour T-Shirt,Skating,Shoes,Synthetic,142,4.1
+404,Under Armour T-Shirt,Volleyball,Shoes,Leather,158,3.7
+405,Wilson Basketball,Squash,Clothing,Polyester,78,4.7
+406,Under Armour T-Shirt,Table Tennis,Ball,Polyester,54,3.7
+407,Nike Air Zoom,Squash,Shoes,Mesh,161,4.2
+408,Under Armour T-Shirt,Hockey,Clothing,Leather,118,4.1
+409,Asics Gel Nimbus,Skating,Gloves,Polyester,180,3.9
+410,Adidas X Pro Gloves,Football,Clothing,Polyester,81,4.1
+411,Puma Goalkeeper Gloves,Long Tennis,Shoes,Polyester,128,4.3
+412,Adidas X Pro Gloves,Long Tennis,Gloves,Synthetic,120,4.6
+413,Asics Gel Nimbus,Squash,Gloves,Mesh,155,3.8
+414,Asics Gel Nimbus,Football,Clothing,Polyester,118,4.5
+415,Asics Gel Nimbus,Golf,Clothing,Polyester,137,3.7
+416,Adidas Predator,Skating,Gloves,Leather,98,4.5
+417,Nike Air Zoom,Skating,Gloves,Leather,48,3.6
+418,Wilson Basketball,Golf,Clothing,Polyester,47,3.9
+419,Adidas Predator,Table Tennis,Clothing,Leather,107,4.0
+420,Adidas Predator,Hockey,Gloves,Cotton,38,4.6
+421,Adidas Predator,Football,Shoes,Polyester,158,3.8
+422,Wilson Basketball,Badminton,Gloves,Cotton,86,3.6
+423,Under Armour T-Shirt,Rugby,Ball,Mesh,80,4.9
+424,Adidas Predator,Volleyball,Clothing,Leather,143,3.7
+425,Adidas X Pro Gloves,Volleyball,Clothing,Cotton,161,4.4
+426,Adidas X Pro Gloves,Rugby,Shoes,Polyester,37,3.6
+427,Wilson Basketball,Baseball,Gloves,Synthetic,35,3.8
+428,Under Armour T-Shirt,Long Tennis,Clothing,Synthetic,181,4.3
+429,Wilson Basketball,Volleyball,Clothing,Synthetic,190,3.5
+430,Asics Gel Nimbus,Squash,Gloves,Leather,80,4.0
+431,Puma Goalkeeper Gloves,Squash,Clothing,Synthetic,191,4.8
+432,Adidas X Pro Gloves,Hockey,Clothing,Cotton,167,4.3
+433,Wilson Basketball,Squash,Clothing,Cotton,107,3.7
+434,Wilson Basketball,Badminton,Clothing,Synthetic,196,3.8
+435,Asics Gel Nimbus,Long Tennis,Ball,Synthetic,127,4.3
+436,Nike Air Zoom,Table Tennis,Shoes,Mesh,117,4.2
+437,Adidas Predator,Table Tennis,Ball,Polyester,68,4.7
+438,Adidas X Pro Gloves,Baseball,Ball,Synthetic,20,4.7
+439,Puma Goalkeeper Gloves,Table Tennis,Ball,Polyester,161,4.7
+440,Under Armour T-Shirt,Cricket,Shoes,Mesh,88,4.1
+441,Nike Air Zoom,Volleyball,Clothing,Cotton,184,4.7
+442,Asics Gel Nimbus,Cricket,Shoes,Cotton,192,3.8
+443,Puma Goalkeeper Gloves,Long Tennis,Gloves,Mesh,33,4.7
+444,Asics Gel Nimbus,Cricket,Shoes,Mesh,104,4.6
+445,Under Armour T-Shirt,Badminton,Clothing,Mesh,59,3.9
+446,Asics Gel Nimbus,Volleyball,Ball,Leather,113,4.4
+447,Under Armour T-Shirt,Golf,Shoes,Cotton,84,4.2
+448,Adidas Predator,Skating,Gloves,Synthetic,158,3.5
+449,Adidas X Pro Gloves,Golf,Clothing,Cotton,178,4.1
+450,Adidas X Pro Gloves,Hockey,Shoes,Cotton,148,4.1
+451,Puma Goalkeeper Gloves,Football,Ball,Mesh,181,3.6
+452,Under Armour T-Shirt,Squash,Shoes,Mesh,31,4.1
+453,Puma Goalkeeper Gloves,Squash,Shoes,Cotton,87,4.6
+454,Puma Goalkeeper Gloves,Volleyball,Clothing,Cotton,46,4.4
+455,Nike Air Zoom,Volleyball,Shoes,Polyester,64,4.8
+456,Under Armour T-Shirt,Volleyball,Ball,Leather,62,4.7
+457,Adidas Predator,Squash,Clothing,Leather,89,4.5
+458,Puma Goalkeeper Gloves,Skating,Ball,Leather,51,3.6
+459,Wilson Basketball,Table Tennis,Ball,Polyester,22,3.7
+460,Reebok Running Shorts,Football,Clothing,Mesh,74,4.3
+461,Adidas X Pro Gloves,Table Tennis,Clothing,Synthetic,171,4.4
+462,Adidas X Pro Gloves,Hockey,Clothing,Cotton,22,4.9
+463,Puma Goalkeeper Gloves,Golf,Clothing,Polyester,180,4.9
+464,Reebok Running Shorts,Squash,Gloves,Leather,171,3.6
+465,Nike Air Zoom,Golf,Ball,Synthetic,150,4.6
+466,Under Armour T-Shirt,Rugby,Shoes,Synthetic,57,4.9
+467,Reebok Running Shorts,Hockey,Ball,Mesh,132,4.8
+468,Adidas Predator,Badminton,Clothing,Mesh,198,4.0
+469,Wilson Basketball,Long Tennis,Ball,Mesh,123,3.7
+470,Reebok Running Shorts,Squash,Gloves,Mesh,80,3.9
+471,Asics Gel Nimbus,Baseball,Clothing,Cotton,95,4.3
+472,Wilson Basketball,Volleyball,Ball,Cotton,175,4.7
+473,Nike Air Zoom,Baseball,Gloves,Mesh,153,3.7
+474,Nike Air Zoom,Volleyball,Shoes,Synthetic,70,3.5
+475,Puma Goalkeeper Gloves,Table Tennis,Gloves,Synthetic,197,3.8
+476,Adidas X Pro Gloves,Cricket,Clothing,Polyester,60,4.1
+477,Wilson Basketball,Skating,Ball,Mesh,145,3.8
+478,Puma Goalkeeper Gloves,Rugby,Clothing,Leather,96,4.7
+479,Wilson Basketball,Volleyball,Clothing,Synthetic,42,4.7
+480,Wilson Basketball,Golf,Clothing,Synthetic,146,4.0
+481,Under Armour T-Shirt,Volleyball,Ball,Polyester,37,4.3
+482,Asics Gel Nimbus,Skating,Clothing,Polyester,170,3.9
+483,Wilson Basketball,Table Tennis,Shoes,Leather,37,4.4
+484,Adidas X Pro Gloves,Golf,Clothing,Mesh,145,3.9
+485,Reebok Running Shorts,Rugby,Shoes,Polyester,45,4.4
+486,Adidas X Pro Gloves,Cricket,Clothing,Mesh,101,4.5
+487,Adidas Predator,Table Tennis,Shoes,Cotton,195,4.3
+488,Nike Air Zoom,Cricket,Clothing,Leather,54,3.8
+489,Reebok Running Shorts,Rugby,Clothing,Synthetic,45,4.8
+490,Asics Gel Nimbus,Table Tennis,Gloves,Cotton,47,4.6
+491,Wilson Basketball,Table Tennis,Gloves,Leather,143,3.5
+492,Adidas Predator,Skating,Gloves,Leather,97,4.8
+493,Adidas X Pro Gloves,Skating,Shoes,Polyester,86,4.5
+494,Under Armour T-Shirt,Squash,Ball,Leather,87,3.7
+495,Nike Air Zoom,Skating,Clothing,Mesh,25,3.6
+496,Reebok Running Shorts,Cricket,Ball,Leather,112,3.9
+497,Wilson Basketball,Skating,Clothing,Leather,134,3.9
+498,Reebok Running Shorts,Hockey,Ball,Mesh,39,4.2
+499,Asics Gel Nimbus,Badminton,Gloves,Synthetic,95,4.6
+500,Under Armour T-Shirt,Football,Clothing,Leather,198,3.5
+501,Puma Goalkeeper Gloves,Skating,Gloves,Leather,52,4.3
+502,Nike Air Zoom,Squash,Gloves,Cotton,89,4.5
+503,Reebok Running Shorts,Badminton,Gloves,Cotton,183,4.0
+504,Puma Goalkeeper Gloves,Cricket,Ball,Cotton,120,3.7
+505,Reebok Running Shorts,Skating,Clothing,Leather,44,4.1
+506,Under Armour T-Shirt,Hockey,Gloves,Polyester,121,4.6
+507,Asics Gel Nimbus,Cricket,Ball,Mesh,150,3.6
+508,Under Armour T-Shirt,Cricket,Clothing,Cotton,84,4.6
+509,Asics Gel Nimbus,Baseball,Shoes,Polyester,140,4.8
+510,Reebok Running Shorts,Football,Gloves,Cotton,26,3.8
+511,Reebok Running Shorts,Skating,Ball,Synthetic,91,3.7
+512,Adidas Predator,Volleyball,Ball,Mesh,157,5.0
+513,Reebok Running Shorts,Squash,Ball,Leather,175,4.1
+514,Asics Gel Nimbus,Volleyball,Shoes,Cotton,144,4.8
+515,Nike Air Zoom,Rugby,Clothing,Leather,186,5.0
+516,Under Armour T-Shirt,Skating,Clothing,Cotton,28,4.3
+517,Wilson Basketball,Badminton,Shoes,Leather,102,4.3
+518,Asics Gel Nimbus,Volleyball,Shoes,Synthetic,116,3.8
+519,Puma Goalkeeper Gloves,Football,Ball,Leather,68,4.0
+520,Asics Gel Nimbus,Skating,Gloves,Polyester,172,3.6
+521,Under Armour T-Shirt,Long Tennis,Shoes,Synthetic,53,4.3
+522,Adidas X Pro Gloves,Table Tennis,Shoes,Polyester,26,4.8
+523,Wilson Basketball,Baseball,Ball,Leather,28,3.6
+524,Adidas X Pro Gloves,Long Tennis,Clothing,Mesh,181,4.2
+525,Nike Air Zoom,Badminton,Gloves,Cotton,48,3.9
+526,Wilson Basketball,Squash,Clothing,Polyester,181,4.5
+527,Wilson Basketball,Long Tennis,Shoes,Synthetic,126,4.2
+528,Nike Air Zoom,Football,Shoes,Mesh,97,4.6
+529,Adidas Predator,Rugby,Shoes,Cotton,79,4.7
+530,Reebok Running Shorts,Table Tennis,Clothing,Synthetic,83,4.1
+531,Reebok Running Shorts,Football,Gloves,Synthetic,161,3.7
+532,Wilson Basketball,Squash,Clothing,Mesh,33,4.5
+533,Reebok Running Shorts,Long Tennis,Gloves,Polyester,166,4.4
+534,Asics Gel Nimbus,Golf,Gloves,Cotton,49,4.8
+535,Wilson Basketball,Baseball,Shoes,Cotton,27,4.2
+536,Nike Air Zoom,Hockey,Clothing,Cotton,200,4.9
+537,Adidas X Pro Gloves,Volleyball,Gloves,Leather,198,3.7
+538,Nike Air Zoom,Volleyball,Gloves,Polyester,26,4.0
+539,Nike Air Zoom,Golf,Shoes,Synthetic,187,4.0
+540,Wilson Basketball,Football,Gloves,Cotton,93,3.7
+541,Wilson Basketball,Badminton,Clothing,Mesh,88,4.9
+542,Adidas X Pro Gloves,Football,Gloves,Leather,115,4.7
+543,Reebok Running Shorts,Long Tennis,Shoes,Leather,167,4.6
+544,Wilson Basketball,Hockey,Clothing,Polyester,79,4.8
+545,Wilson Basketball,Football,Shoes,Synthetic,65,4.1
+546,Nike Air Zoom,Rugby,Shoes,Cotton,66,4.7
+547,Reebok Running Shorts,Hockey,Ball,Polyester,34,4.2
+548,Adidas X Pro Gloves,Football,Clothing,Cotton,193,4.5
+549,Nike Air Zoom,Cricket,Shoes,Leather,37,4.9
+550,Adidas X Pro Gloves,Badminton,Gloves,Cotton,104,3.5
+551,Wilson Basketball,Badminton,Clothing,Polyester,55,4.0
+552,Nike Air Zoom,Skating,Ball,Cotton,45,5.0
+553,Adidas Predator,Cricket,Clothing,Mesh,72,4.9
+554,Adidas X Pro Gloves,Rugby,Shoes,Cotton,120,4.2
+555,Under Armour T-Shirt,Football,Ball,Cotton,88,3.6
+556,Under Armour T-Shirt,Rugby,Clothing,Cotton,81,4.7
+557,Nike Air Zoom,Squash,Ball,Polyester,48,4.5
+558,Nike Air Zoom,Long Tennis,Gloves,Mesh,161,4.7
+559,Puma Goalkeeper Gloves,Long Tennis,Shoes,Leather,106,3.6
+560,Under Armour T-Shirt,Badminton,Gloves,Mesh,94,3.8
+561,Adidas X Pro Gloves,Long Tennis,Shoes,Synthetic,102,4.3
+562,Nike Air Zoom,Golf,Shoes,Cotton,194,3.9
+563,Adidas Predator,Volleyball,Gloves,Leather,166,3.7
+564,Reebok Running Shorts,Golf,Gloves,Polyester,196,3.8
+565,Reebok Running Shorts,Skating,Clothing,Leather,135,3.5
+566,Wilson Basketball,Golf,Ball,Mesh,63,4.0
+567,Adidas Predator,Squash,Ball,Leather,104,4.0
+568,Adidas X Pro Gloves,Badminton,Shoes,Polyester,134,4.8
+569,Wilson Basketball,Golf,Clothing,Mesh,130,4.3
+570,Reebok Running Shorts,Badminton,Shoes,Cotton,150,5.0
+571,Nike Air Zoom,Football,Clothing,Cotton,162,4.0
+572,Asics Gel Nimbus,Hockey,Gloves,Leather,136,3.9
+573,Asics Gel Nimbus,Long Tennis,Gloves,Cotton,148,4.5
+574,Nike Air Zoom,Hockey,Shoes,Polyester,106,3.5
+575,Wilson Basketball,Golf,Clothing,Leather,31,3.9
+576,Reebok Running Shorts,Long Tennis,Clothing,Mesh,149,4.8
+577,Wilson Basketball,Table Tennis,Ball,Leather,107,3.8
+578,Under Armour T-Shirt,Football,Clothing,Synthetic,72,3.6
+579,Nike Air Zoom,Rugby,Gloves,Cotton,90,4.1
+580,Under Armour T-Shirt,Rugby,Gloves,Polyester,52,3.8
+581,Puma Goalkeeper Gloves,Baseball,Ball,Polyester,40,4.6
+582,Under Armour T-Shirt,Squash,Ball,Mesh,144,4.7
+583,Adidas X Pro Gloves,Squash,Ball,Cotton,180,3.6
+584,Asics Gel Nimbus,Long Tennis,Gloves,Mesh,192,4.7
+585,Under Armour T-Shirt,Squash,Ball,Cotton,107,3.6
+586,Reebok Running Shorts,Hockey,Shoes,Polyester,68,4.7
+587,Adidas X Pro Gloves,Skating,Shoes,Leather,150,4.7
+588,Asics Gel Nimbus,Football,Clothing,Leather,66,4.5
+589,Wilson Basketball,Golf,Gloves,Leather,41,3.9
+590,Reebok Running Shorts,Cricket,Gloves,Synthetic,68,4.5
+591,Nike Air Zoom,Long Tennis,Gloves,Leather,135,3.7
+592,Under Armour T-Shirt,Golf,Ball,Synthetic,150,3.6
+593,Nike Air Zoom,Golf,Shoes,Synthetic,70,4.6
+594,Wilson Basketball,Baseball,Clothing,Leather,126,3.6
+595,Asics Gel Nimbus,Hockey,Ball,Leather,49,4.0
+596,Nike Air Zoom,Skating,Ball,Synthetic,126,4.6
+597,Under Armour T-Shirt,Squash,Shoes,Cotton,51,3.9
+598,Adidas Predator,Cricket,Clothing,Synthetic,112,3.6
+599,Adidas X Pro Gloves,Volleyball,Shoes,Cotton,104,3.6
+600,Wilson Basketball,Cricket,Ball,Polyester,74,3.5
+601,Under Armour T-Shirt,Rugby,Gloves,Mesh,176,4.3
+602,Puma Goalkeeper Gloves,Cricket,Ball,Polyester,68,3.9
+603,Adidas Predator,Cricket,Gloves,Synthetic,173,3.7
+604,Under Armour T-Shirt,Baseball,Gloves,Leather,34,3.8
+605,Adidas X Pro Gloves,Volleyball,Gloves,Polyester,127,3.9
+606,Puma Goalkeeper Gloves,Cricket,Clothing,Synthetic,116,4.0
+607,Reebok Running Shorts,Rugby,Ball,Synthetic,116,4.2
+608,Nike Air Zoom,Table Tennis,Gloves,Leather,142,5.0
+609,Adidas X Pro Gloves,Baseball,Gloves,Synthetic,120,3.5
+610,Wilson Basketball,Football,Ball,Cotton,45,4.0
+611,Asics Gel Nimbus,Volleyball,Gloves,Mesh,100,3.5
+612,Reebok Running Shorts,Long Tennis,Gloves,Polyester,151,4.7
+613,Wilson Basketball,Hockey,Gloves,Polyester,42,4.7
+614,Asics Gel Nimbus,Golf,Ball,Leather,40,3.7
+615,Nike Air Zoom,Rugby,Shoes,Mesh,71,4.6
+616,Under Armour T-Shirt,Rugby,Gloves,Mesh,199,3.8
+617,Asics Gel Nimbus,Cricket,Shoes,Mesh,101,4.9
+618,Reebok Running Shorts,Long Tennis,Clothing,Cotton,32,4.7
+619,Adidas X Pro Gloves,Volleyball,Shoes,Mesh,47,4.2
+620,Wilson Basketball,Cricket,Gloves,Polyester,44,3.7
+621,Reebok Running Shorts,Volleyball,Clothing,Mesh,42,3.9
+622,Puma Goalkeeper Gloves,Badminton,Clothing,Cotton,173,3.9
+623,Wilson Basketball,Long Tennis,Clothing,Synthetic,39,4.1
+624,Asics Gel Nimbus,Skating,Clothing,Cotton,191,4.2
+625,Puma Goalkeeper Gloves,Hockey,Ball,Synthetic,185,3.9
+626,Reebok Running Shorts,Squash,Gloves,Synthetic,183,3.5
+627,Reebok Running Shorts,Cricket,Gloves,Synthetic,65,3.8
+628,Nike Air Zoom,Skating,Shoes,Polyester,199,3.8
+629,Under Armour T-Shirt,Long Tennis,Gloves,Polyester,21,4.0
+630,Asics Gel Nimbus,Volleyball,Gloves,Cotton,182,4.7
+631,Adidas X Pro Gloves,Volleyball,Shoes,Polyester,26,4.8
+632,Nike Air Zoom,Table Tennis,Ball,Mesh,50,4.2
+633,Adidas X Pro Gloves,Long Tennis,Ball,Cotton,194,4.8
+634,Wilson Basketball,Rugby,Shoes,Leather,130,4.2
+635,Puma Goalkeeper Gloves,Baseball,Clothing,Polyester,103,4.6
+636,Under Armour T-Shirt,Badminton,Shoes,Leather,85,4.5
+637,Reebok Running Shorts,Hockey,Clothing,Mesh,31,4.4
+638,Adidas X Pro Gloves,Skating,Clothing,Polyester,184,4.7
+639,Puma Goalkeeper Gloves,Table Tennis,Shoes,Polyester,83,4.1
+640,Under Armour T-Shirt,Squash,Shoes,Mesh,134,3.8
+641,Adidas X Pro Gloves,Long Tennis,Gloves,Polyester,55,3.9
+642,Nike Air Zoom,Cricket,Shoes,Leather,44,4.2
+643,Nike Air Zoom,Squash,Ball,Leather,179,4.7
+644,Under Armour T-Shirt,Football,Gloves,Leather,179,5.0
+645,Wilson Basketball,Long Tennis,Gloves,Leather,66,3.9
+646,Reebok Running Shorts,Rugby,Ball,Cotton,179,4.4
+647,Under Armour T-Shirt,Cricket,Ball,Polyester,122,4.7
+648,Reebok Running Shorts,Badminton,Clothing,Mesh,63,4.7
+649,Adidas X Pro Gloves,Golf,Ball,Mesh,94,3.6
+650,Asics Gel Nimbus,Football,Ball,Leather,82,4.9
+651,Puma Goalkeeper Gloves,Baseball,Clothing,Polyester,29,4.6
+652,Adidas Predator,Long Tennis,Gloves,Cotton,73,4.6
+653,Adidas Predator,Baseball,Shoes,Leather,41,3.9
+654,Adidas X Pro Gloves,Table Tennis,Ball,Polyester,44,4.5
+655,Adidas X Pro Gloves,Long Tennis,Gloves,Synthetic,148,4.9
+656,Puma Goalkeeper Gloves,Golf,Shoes,Mesh,110,4.5
+657,Under Armour T-Shirt,Squash,Gloves,Polyester,118,4.8
+658,Adidas X Pro Gloves,Skating,Shoes,Polyester,97,3.6
+659,Asics Gel Nimbus,Baseball,Ball,Cotton,32,4.5
+660,Asics Gel Nimbus,Cricket,Ball,Mesh,38,4.0
+661,Reebok Running Shorts,Skating,Clothing,Mesh,36,4.0
+662,Under Armour T-Shirt,Table Tennis,Ball,Cotton,58,4.3
+663,Puma Goalkeeper Gloves,Rugby,Clothing,Synthetic,84,4.1
+664,Asics Gel Nimbus,Table Tennis,Gloves,Mesh,183,4.3
+665,Wilson Basketball,Baseball,Shoes,Synthetic,110,4.5
+666,Puma Goalkeeper Gloves,Hockey,Clothing,Cotton,45,3.7
+667,Adidas Predator,Table Tennis,Shoes,Mesh,102,3.8
+668,Puma Goalkeeper Gloves,Hockey,Ball,Cotton,46,4.2
+669,Adidas X Pro Gloves,Football,Shoes,Leather,36,3.6
+670,Reebok Running Shorts,Skating,Ball,Synthetic,94,4.6
+671,Adidas Predator,Football,Ball,Synthetic,65,4.8
+672,Puma Goalkeeper Gloves,Badminton,Clothing,Mesh,39,3.7
+673,Adidas Predator,Hockey,Clothing,Polyester,134,4.2
+674,Adidas Predator,Rugby,Ball,Leather,57,4.8
+675,Adidas Predator,Squash,Ball,Polyester,48,4.0
+676,Wilson Basketball,Long Tennis,Gloves,Synthetic,189,3.6
+677,Asics Gel Nimbus,Baseball,Clothing,Polyester,130,3.9
+678,Asics Gel Nimbus,Long Tennis,Gloves,Cotton,76,4.6
+679,Reebok Running Shorts,Long Tennis,Gloves,Synthetic,143,4.7
+680,Asics Gel Nimbus,Cricket,Clothing,Synthetic,91,4.4
+681,Asics Gel Nimbus,Badminton,Shoes,Polyester,61,3.6
+682,Adidas Predator,Skating,Clothing,Cotton,92,4.7
+683,Wilson Basketball,Hockey,Ball,Synthetic,112,3.9
+684,Nike Air Zoom,Table Tennis,Shoes,Leather,128,3.7
+685,Adidas Predator,Rugby,Shoes,Polyester,64,4.7
+686,Wilson Basketball,Football,Shoes,Polyester,99,5.0
+687,Adidas X Pro Gloves,Volleyball,Ball,Cotton,153,4.1
+688,Reebok Running Shorts,Volleyball,Ball,Cotton,198,4.2
+689,Adidas X Pro Gloves,Golf,Gloves,Leather,165,3.6
+690,Reebok Running Shorts,Skating,Clothing,Leather,95,4.3
+691,Wilson Basketball,Badminton,Ball,Cotton,63,5.0
+692,Puma Goalkeeper Gloves,Cricket,Gloves,Polyester,76,4.9
+693,Reebok Running Shorts,Badminton,Shoes,Synthetic,91,4.0
+694,Puma Goalkeeper Gloves,Football,Gloves,Synthetic,66,4.6
+695,Adidas Predator,Table Tennis,Clothing,Polyester,42,3.6
+696,Nike Air Zoom,Golf,Shoes,Polyester,180,4.5
+697,Under Armour T-Shirt,Long Tennis,Gloves,Leather,100,4.2
+698,Nike Air Zoom,Football,Ball,Mesh,21,4.5
+699,Nike Air Zoom,Squash,Clothing,Leather,21,4.1
+700,Adidas Predator,Hockey,Ball,Leather,159,3.8
+701,Under Armour T-Shirt,Long Tennis,Clothing,Synthetic,129,4.0
+702,Adidas Predator,Skating,Ball,Polyester,120,4.6
+703,Asics Gel Nimbus,Cricket,Gloves,Cotton,84,4.9
+704,Adidas Predator,Long Tennis,Shoes,Leather,170,3.9
+705,Asics Gel Nimbus,Baseball,Shoes,Synthetic,121,3.7
+706,Nike Air Zoom,Table Tennis,Ball,Mesh,113,4.2
+707,Reebok Running Shorts,Squash,Clothing,Mesh,60,4.4
+708,Reebok Running Shorts,Skating,Ball,Mesh,82,4.7
+709,Asics Gel Nimbus,Cricket,Clothing,Cotton,23,3.7
+710,Nike Air Zoom,Hockey,Gloves,Cotton,77,4.8
+711,Wilson Basketball,Badminton,Ball,Mesh,147,3.8
+712,Puma Goalkeeper Gloves,Long Tennis,Shoes,Mesh,146,4.2
+713,Asics Gel Nimbus,Squash,Ball,Leather,156,5.0
+714,Wilson Basketball,Skating,Ball,Cotton,106,4.7
+715,Puma Goalkeeper Gloves,Skating,Gloves,Mesh,198,4.8
+716,Puma Goalkeeper Gloves,Golf,Shoes,Synthetic,41,4.8
+717,Asics Gel Nimbus,Skating,Ball,Synthetic,175,4.0
+718,Under Armour T-Shirt,Badminton,Clothing,Cotton,170,3.8
+719,Under Armour T-Shirt,Rugby,Gloves,Polyester,113,4.0
+720,Adidas X Pro Gloves,Baseball,Shoes,Synthetic,194,4.7
+721,Reebok Running Shorts,Squash,Shoes,Cotton,56,3.9
+722,Adidas Predator,Hockey,Clothing,Polyester,136,4.6
+723,Asics Gel Nimbus,Golf,Clothing,Mesh,87,4.0
+724,Wilson Basketball,Cricket,Shoes,Leather,46,4.8
+725,Adidas X Pro Gloves,Table Tennis,Gloves,Mesh,64,4.2
+726,Wilson Basketball,Badminton,Clothing,Polyester,153,3.8
+727,Adidas Predator,Rugby,Gloves,Synthetic,165,4.2
+728,Asics Gel Nimbus,Rugby,Clothing,Cotton,163,4.5
+729,Nike Air Zoom,Golf,Shoes,Synthetic,170,4.2
+730,Puma Goalkeeper Gloves,Volleyball,Shoes,Polyester,170,3.9
+731,Under Armour T-Shirt,Golf,Ball,Mesh,87,3.9
+732,Adidas X Pro Gloves,Volleyball,Ball,Cotton,81,4.2
+733,Puma Goalkeeper Gloves,Golf,Shoes,Polyester,175,3.7
+734,Nike Air Zoom,Football,Gloves,Mesh,25,4.0
+735,Puma Goalkeeper Gloves,Skating,Gloves,Cotton,118,3.9
+736,Adidas X Pro Gloves,Table Tennis,Shoes,Leather,179,4.9
+737,Wilson Basketball,Badminton,Shoes,Polyester,66,4.9
+738,Puma Goalkeeper Gloves,Badminton,Ball,Mesh,125,4.4
+739,Under Armour T-Shirt,Football,Shoes,Mesh,101,4.1
+740,Reebok Running Shorts,Cricket,Clothing,Synthetic,103,3.9
+741,Asics Gel Nimbus,Skating,Shoes,Synthetic,192,3.6
+742,Puma Goalkeeper Gloves,Hockey,Clothing,Polyester,174,4.9
+743,Puma Goalkeeper Gloves,Squash,Gloves,Mesh,41,4.9
+744,Adidas Predator,Cricket,Gloves,Mesh,115,4.7
+745,Adidas X Pro Gloves,Volleyball,Ball,Cotton,43,3.8
+746,Adidas X Pro Gloves,Badminton,Ball,Leather,91,3.7
+747,Adidas X Pro Gloves,Cricket,Ball,Leather,94,4.6
+748,Puma Goalkeeper Gloves,Squash,Shoes,Leather,70,4.4
+749,Adidas X Pro Gloves,Cricket,Ball,Leather,59,3.9
+750,Wilson Basketball,Rugby,Clothing,Leather,65,3.8
+751,Reebok Running Shorts,Golf,Gloves,Cotton,93,4.3
+752,Puma Goalkeeper Gloves,Volleyball,Clothing,Cotton,194,4.3
+753,Puma Goalkeeper Gloves,Volleyball,Gloves,Mesh,37,4.9
+754,Under Armour T-Shirt,Badminton,Gloves,Cotton,156,3.9
+755,Adidas X Pro Gloves,Hockey,Gloves,Synthetic,119,5.0
+756,Puma Goalkeeper Gloves,Cricket,Clothing,Cotton,181,4.7
+757,Puma Goalkeeper Gloves,Skating,Clothing,Synthetic,88,3.6
+758,Reebok Running Shorts,Badminton,Ball,Polyester,163,4.5
+759,Reebok Running Shorts,Volleyball,Shoes,Synthetic,86,4.2
+760,Puma Goalkeeper Gloves,Baseball,Ball,Leather,48,3.5
+761,Adidas Predator,Baseball,Gloves,Leather,85,4.7
+762,Wilson Basketball,Long Tennis,Gloves,Mesh,36,4.4
+763,Wilson Basketball,Hockey,Ball,Cotton,44,3.8
+764,Puma Goalkeeper Gloves,Badminton,Gloves,Mesh,108,3.8
+765,Adidas Predator,Cricket,Shoes,Polyester,89,4.0
+766,Adidas Predator,Hockey,Gloves,Polyester,36,4.2
+767,Nike Air Zoom,Rugby,Gloves,Cotton,196,3.8
+768,Under Armour T-Shirt,Hockey,Gloves,Leather,102,4.1
+769,Nike Air Zoom,Hockey,Clothing,Synthetic,185,4.9
+770,Adidas Predator,Table Tennis,Clothing,Cotton,52,4.3
+771,Adidas X Pro Gloves,Golf,Shoes,Leather,118,3.7
+772,Reebok Running Shorts,Hockey,Ball,Polyester,143,4.5
+773,Wilson Basketball,Golf,Ball,Cotton,174,4.9
+774,Reebok Running Shorts,Volleyball,Clothing,Mesh,29,3.9
+775,Reebok Running Shorts,Rugby,Clothing,Mesh,50,3.6
+776,Puma Goalkeeper Gloves,Skating,Clothing,Polyester,93,4.2
+777,Under Armour T-Shirt,Baseball,Gloves,Mesh,154,4.9
+778,Adidas Predator,Badminton,Ball,Cotton,78,4.2
+779,Under Armour T-Shirt,Golf,Gloves,Leather,66,4.9
+780,Nike Air Zoom,Skating,Gloves,Polyester,54,4.0
+781,Puma Goalkeeper Gloves,Baseball,Ball,Mesh,76,4.1
+782,Asics Gel Nimbus,Skating,Shoes,Synthetic,104,3.7
+783,Adidas X Pro Gloves,Cricket,Gloves,Mesh,108,4.2
+784,Adidas Predator,Long Tennis,Ball,Synthetic,103,3.7
+785,Nike Air Zoom,Badminton,Gloves,Polyester,65,3.5
+786,Asics Gel Nimbus,Long Tennis,Shoes,Cotton,186,4.8
+787,Wilson Basketball,Volleyball,Gloves,Cotton,108,3.6
+788,Asics Gel Nimbus,Baseball,Ball,Cotton,62,3.8
+789,Nike Air Zoom,Hockey,Gloves,Leather,148,3.9
+790,Under Armour T-Shirt,Squash,Gloves,Leather,100,4.2
+791,Wilson Basketball,Badminton,Gloves,Synthetic,113,3.9
+792,Puma Goalkeeper Gloves,Skating,Shoes,Leather,156,3.7
+793,Wilson Basketball,Squash,Gloves,Leather,196,4.8
+794,Wilson Basketball,Hockey,Gloves,Leather,190,4.1
+795,Puma Goalkeeper Gloves,Football,Clothing,Synthetic,166,5.0
+796,Puma Goalkeeper Gloves,Golf,Clothing,Cotton,34,4.8
+797,Adidas X Pro Gloves,Golf,Gloves,Mesh,22,4.1
+798,Adidas Predator,Rugby,Ball,Synthetic,69,4.3
+799,Wilson Basketball,Baseball,Shoes,Cotton,53,4.9
+800,Reebok Running Shorts,Baseball,Clothing,Polyester,180,4.6
+801,Reebok Running Shorts,Table Tennis,Gloves,Synthetic,149,4.1
+802,Asics Gel Nimbus,Table Tennis,Shoes,Cotton,24,4.8
+803,Asics Gel Nimbus,Long Tennis,Gloves,Polyester,83,4.5
+804,Wilson Basketball,Baseball,Clothing,Polyester,36,4.3
+805,Adidas Predator,Rugby,Shoes,Leather,176,3.8
+806,Nike Air Zoom,Skating,Ball,Polyester,112,3.6
+807,Adidas X Pro Gloves,Skating,Gloves,Synthetic,105,3.6
+808,Nike Air Zoom,Golf,Shoes,Synthetic,71,4.7
+809,Adidas X Pro Gloves,Football,Ball,Synthetic,60,3.8
+810,Wilson Basketball,Golf,Gloves,Polyester,82,4.9
+811,Wilson Basketball,Badminton,Ball,Synthetic,146,5.0
+812,Asics Gel Nimbus,Volleyball,Ball,Synthetic,35,4.2
+813,Wilson Basketball,Hockey,Shoes,Polyester,64,4.1
+814,Asics Gel Nimbus,Cricket,Shoes,Mesh,149,4.4
+815,Adidas Predator,Long Tennis,Gloves,Cotton,141,4.4
+816,Wilson Basketball,Golf,Ball,Cotton,33,4.7
+817,Nike Air Zoom,Football,Shoes,Leather,29,3.6
+818,Asics Gel Nimbus,Football,Clothing,Mesh,97,4.9
+819,Adidas X Pro Gloves,Volleyball,Clothing,Cotton,96,3.6
+820,Reebok Running Shorts,Long Tennis,Ball,Leather,86,4.3
+821,Nike Air Zoom,Rugby,Shoes,Mesh,195,4.2
+822,Wilson Basketball,Cricket,Gloves,Leather,52,4.4
+823,Nike Air Zoom,Skating,Gloves,Polyester,154,4.3
+824,Under Armour T-Shirt,Long Tennis,Clothing,Mesh,121,3.6
+825,Adidas X Pro Gloves,Volleyball,Ball,Cotton,124,3.7
+826,Reebok Running Shorts,Golf,Clothing,Mesh,146,3.8
+827,Reebok Running Shorts,Football,Clothing,Polyester,164,4.8
+828,Wilson Basketball,Rugby,Clothing,Synthetic,63,4.0
+829,Adidas Predator,Baseball,Gloves,Mesh,162,4.6
+830,Nike Air Zoom,Golf,Gloves,Synthetic,153,3.8
+831,Nike Air Zoom,Rugby,Shoes,Leather,78,4.1
+832,Adidas Predator,Golf,Gloves,Mesh,113,4.6
+833,Asics Gel Nimbus,Squash,Clothing,Cotton,149,4.0
+834,Adidas X Pro Gloves,Volleyball,Shoes,Polyester,68,4.2
+835,Under Armour T-Shirt,Football,Shoes,Mesh,81,3.9
+836,Under Armour T-Shirt,Hockey,Ball,Leather,172,3.6
+837,Adidas X Pro Gloves,Volleyball,Ball,Leather,46,4.4
+838,Puma Goalkeeper Gloves,Rugby,Shoes,Cotton,200,4.8
+839,Nike Air Zoom,Hockey,Shoes,Mesh,125,3.7
+840,Puma Goalkeeper Gloves,Squash,Clothing,Cotton,166,4.6
+841,Wilson Basketball,Football,Ball,Synthetic,66,4.5
+842,Reebok Running Shorts,Long Tennis,Ball,Cotton,67,4.2
+843,Adidas Predator,Football,Clothing,Cotton,35,4.7
+844,Under Armour T-Shirt,Badminton,Ball,Mesh,87,4.1
+845,Adidas Predator,Long Tennis,Shoes,Leather,103,4.9
+846,Puma Goalkeeper Gloves,Baseball,Clothing,Synthetic,116,3.8
+847,Nike Air Zoom,Cricket,Shoes,Cotton,144,4.1
+848,Reebok Running Shorts,Squash,Clothing,Synthetic,35,3.8
+849,Under Armour T-Shirt,Skating,Clothing,Polyester,123,3.8
+850,Wilson Basketball,Long Tennis,Clothing,Leather,119,5.0
+851,Reebok Running Shorts,Volleyball,Shoes,Cotton,69,3.9
+852,Asics Gel Nimbus,Football,Clothing,Synthetic,83,4.3
+853,Wilson Basketball,Rugby,Ball,Leather,126,4.1
+854,Adidas Predator,Golf,Clothing,Mesh,113,4.1
+855,Asics Gel Nimbus,Golf,Ball,Cotton,64,4.5
+856,Wilson Basketball,Hockey,Ball,Mesh,54,4.1
+857,Reebok Running Shorts,Long Tennis,Clothing,Synthetic,141,4.7
+858,Nike Air Zoom,Baseball,Clothing,Cotton,157,3.5
+859,Asics Gel Nimbus,Long Tennis,Shoes,Mesh,197,3.9
+860,Wilson Basketball,Football,Clothing,Cotton,59,5.0
+861,Reebok Running Shorts,Hockey,Clothing,Synthetic,62,4.8
+862,Nike Air Zoom,Badminton,Gloves,Leather,97,4.6
+863,Asics Gel Nimbus,Baseball,Ball,Leather,189,4.0
+864,Puma Goalkeeper Gloves,Cricket,Clothing,Cotton,120,4.2
+865,Reebok Running Shorts,Rugby,Shoes,Mesh,20,3.7
+866,Reebok Running Shorts,Badminton,Gloves,Leather,20,3.6
+867,Asics Gel Nimbus,Hockey,Clothing,Leather,133,4.8
+868,Wilson Basketball,Long Tennis,Ball,Mesh,131,4.6
+869,Nike Air Zoom,Squash,Ball,Polyester,36,4.3
+870,Adidas Predator,Volleyball,Shoes,Synthetic,113,3.7
+871,Puma Goalkeeper Gloves,Skating,Shoes,Leather,190,3.9
+872,Under Armour T-Shirt,Cricket,Ball,Polyester,33,4.4
+873,Puma Goalkeeper Gloves,Rugby,Clothing,Leather,28,4.1
+874,Under Armour T-Shirt,Hockey,Ball,Synthetic,140,4.7
+875,Reebok Running Shorts,Badminton,Shoes,Cotton,58,4.6
+876,Puma Goalkeeper Gloves,Cricket,Clothing,Synthetic,45,4.9
+877,Reebok Running Shorts,Table Tennis,Ball,Leather,69,3.6
+878,Adidas Predator,Table Tennis,Shoes,Polyester,121,4.2
+879,Adidas Predator,Long Tennis,Clothing,Synthetic,117,4.5
+880,Asics Gel Nimbus,Baseball,Shoes,Synthetic,113,3.8
+881,Under Armour T-Shirt,Rugby,Clothing,Synthetic,39,4.2
+882,Under Armour T-Shirt,Football,Gloves,Cotton,145,4.6
+883,Reebok Running Shorts,Volleyball,Ball,Synthetic,20,4.6
+884,Puma Goalkeeper Gloves,Cricket,Shoes,Cotton,24,4.1
+885,Adidas X Pro Gloves,Badminton,Clothing,Mesh,51,4.4
+886,Asics Gel Nimbus,Baseball,Clothing,Cotton,71,3.8
+887,Adidas Predator,Football,Ball,Synthetic,165,3.9
+888,Reebok Running Shorts,Football,Ball,Synthetic,118,3.9
+889,Reebok Running Shorts,Golf,Gloves,Mesh,102,4.8
+890,Nike Air Zoom,Cricket,Ball,Polyester,76,4.8
+891,Asics Gel Nimbus,Baseball,Gloves,Leather,112,4.7
+892,Reebok Running Shorts,Cricket,Shoes,Leather,157,4.1
+893,Asics Gel Nimbus,Football,Clothing,Cotton,109,4.5
+894,Adidas Predator,Football,Shoes,Synthetic,111,4.1
+895,Adidas Predator,Football,Clothing,Mesh,101,3.6
+896,Adidas X Pro Gloves,Squash,Clothing,Cotton,130,3.9
+897,Adidas X Pro Gloves,Football,Gloves,Mesh,82,4.3
+898,Under Armour T-Shirt,Skating,Shoes,Polyester,92,4.8
+899,Asics Gel Nimbus,Table Tennis,Shoes,Synthetic,64,4.2
+900,Reebok Running Shorts,Football,Ball,Synthetic,199,3.8
+901,Adidas X Pro Gloves,Hockey,Clothing,Cotton,179,4.7
+902,Puma Goalkeeper Gloves,Volleyball,Clothing,Polyester,166,4.6
+903,Puma Goalkeeper Gloves,Football,Ball,Synthetic,165,4.4
+904,Puma Goalkeeper Gloves,Skating,Gloves,Synthetic,46,4.9
+905,Adidas X Pro Gloves,Football,Shoes,Mesh,139,4.2
+906,Adidas Predator,Squash,Clothing,Mesh,110,4.6
+907,Under Armour T-Shirt,Skating,Shoes,Polyester,176,3.6
+908,Wilson Basketball,Long Tennis,Gloves,Synthetic,20,3.7
+909,Under Armour T-Shirt,Squash,Ball,Polyester,159,4.2
+910,Reebok Running Shorts,Rugby,Gloves,Cotton,94,3.8
+911,Nike Air Zoom,Golf,Ball,Leather,91,5.0
+912,Under Armour T-Shirt,Rugby,Gloves,Leather,154,3.6
+913,Reebok Running Shorts,Football,Ball,Leather,94,3.6
+914,Reebok Running Shorts,Volleyball,Clothing,Mesh,138,4.0
+915,Adidas X Pro Gloves,Badminton,Ball,Mesh,174,3.9
+916,Adidas Predator,Skating,Shoes,Mesh,45,5.0
+917,Under Armour T-Shirt,Badminton,Gloves,Leather,190,4.4
+918,Puma Goalkeeper Gloves,Volleyball,Clothing,Cotton,182,3.5
+919,Wilson Basketball,Volleyball,Ball,Leather,39,3.7
+920,Nike Air Zoom,Football,Gloves,Mesh,179,5.0
+921,Under Armour T-Shirt,Long Tennis,Gloves,Leather,200,4.5
+922,Adidas X Pro Gloves,Golf,Ball,Cotton,140,3.9
+923,Adidas X Pro Gloves,Badminton,Clothing,Mesh,168,4.3
+924,Wilson Basketball,Football,Shoes,Cotton,39,4.4
+925,Wilson Basketball,Golf,Clothing,Mesh,120,4.8
+926,Asics Gel Nimbus,Volleyball,Ball,Cotton,28,3.6
+927,Under Armour T-Shirt,Volleyball,Ball,Leather,198,4.6
+928,Adidas Predator,Table Tennis,Shoes,Leather,126,4.6
+929,Wilson Basketball,Long Tennis,Clothing,Polyester,145,4.6
+930,Adidas Predator,Rugby,Gloves,Synthetic,51,4.4
+931,Asics Gel Nimbus,Rugby,Ball,Leather,172,4.8
+932,Under Armour T-Shirt,Football,Gloves,Leather,101,4.2
+933,Under Armour T-Shirt,Cricket,Shoes,Cotton,66,4.2
+934,Reebok Running Shorts,Baseball,Ball,Polyester,169,3.9
+935,Wilson Basketball,Volleyball,Clothing,Polyester,117,4.5
+936,Reebok Running Shorts,Baseball,Ball,Cotton,118,3.5
+937,Under Armour T-Shirt,Rugby,Shoes,Synthetic,48,3.9
+938,Nike Air Zoom,Golf,Shoes,Leather,75,4.8
+939,Puma Goalkeeper Gloves,Volleyball,Gloves,Polyester,158,3.6
+940,Wilson Basketball,Baseball,Gloves,Polyester,59,4.5
+941,Nike Air Zoom,Long Tennis,Gloves,Polyester,151,4.9
+942,Reebok Running Shorts,Table Tennis,Ball,Polyester,92,4.6
+943,Asics Gel Nimbus,Skating,Ball,Polyester,120,3.7
+944,Wilson Basketball,Badminton,Shoes,Polyester,196,4.2
+945,Nike Air Zoom,Golf,Gloves,Polyester,193,4.7
+946,Adidas X Pro Gloves,Table Tennis,Ball,Polyester,108,4.3
+947,Reebok Running Shorts,Rugby,Gloves,Synthetic,152,4.1
+948,Under Armour T-Shirt,Long Tennis,Shoes,Polyester,73,4.0
+949,Wilson Basketball,Cricket,Shoes,Leather,162,3.8
+950,Adidas Predator,Volleyball,Clothing,Leather,126,4.3
+951,Reebok Running Shorts,Volleyball,Gloves,Polyester,178,4.9
+952,Wilson Basketball,Football,Shoes,Mesh,154,3.6
+953,Reebok Running Shorts,Badminton,Shoes,Leather,165,4.2
+954,Under Armour T-Shirt,Golf,Ball,Cotton,101,3.5
+955,Nike Air Zoom,Table Tennis,Shoes,Polyester,56,3.5
+956,Reebok Running Shorts,Cricket,Gloves,Polyester,137,3.8
+957,Adidas Predator,Baseball,Shoes,Leather,70,4.1
+958,Adidas X Pro Gloves,Cricket,Shoes,Synthetic,149,4.5
+959,Under Armour T-Shirt,Hockey,Shoes,Synthetic,119,3.5
+960,Wilson Basketball,Long Tennis,Ball,Synthetic,191,4.1
+961,Adidas Predator,Squash,Clothing,Mesh,62,4.0
+962,Nike Air Zoom,Rugby,Clothing,Mesh,172,3.5
+963,Puma Goalkeeper Gloves,Rugby,Clothing,Cotton,50,4.0
+964,Adidas X Pro Gloves,Golf,Ball,Mesh,79,4.6
+965,Nike Air Zoom,Golf,Ball,Leather,55,4.5
+966,Reebok Running Shorts,Rugby,Shoes,Mesh,25,4.1
+967,Adidas X Pro Gloves,Volleyball,Clothing,Polyester,185,5.0
+968,Reebok Running Shorts,Badminton,Shoes,Mesh,56,4.7
+969,Nike Air Zoom,Cricket,Shoes,Polyester,128,4.7
+970,Reebok Running Shorts,Rugby,Ball,Mesh,169,4.3
+971,Nike Air Zoom,Rugby,Clothing,Synthetic,30,4.4
+972,Puma Goalkeeper Gloves,Hockey,Gloves,Polyester,188,4.7
+973,Under Armour T-Shirt,Rugby,Clothing,Mesh,167,4.0
+974,Wilson Basketball,Rugby,Shoes,Cotton,84,3.9
+975,Asics Gel Nimbus,Golf,Gloves,Polyester,25,4.0
+976,Adidas X Pro Gloves,Skating,Gloves,Mesh,168,4.4
+977,Under Armour T-Shirt,Skating,Ball,Cotton,51,3.9
+978,Under Armour T-Shirt,Cricket,Gloves,Leather,151,3.5
+979,Reebok Running Shorts,Hockey,Clothing,Synthetic,31,4.6
+980,Puma Goalkeeper Gloves,Golf,Ball,Synthetic,170,3.7
+981,Nike Air Zoom,Volleyball,Clothing,Polyester,146,4.9
+982,Adidas Predator,Baseball,Ball,Leather,75,3.7
+983,Asics Gel Nimbus,Cricket,Ball,Leather,173,3.7
+984,Adidas X Pro Gloves,Football,Clothing,Polyester,132,4.1
+985,Under Armour T-Shirt,Table Tennis,Gloves,Synthetic,98,3.6
+986,Nike Air Zoom,Badminton,Ball,Leather,166,4.9
+987,Under Armour T-Shirt,Football,Ball,Leather,189,3.7
+988,Reebok Running Shorts,Skating,Gloves,Mesh,81,3.8
+989,Under Armour T-Shirt,Long Tennis,Gloves,Polyester,47,4.7
+990,Puma Goalkeeper Gloves,Hockey,Gloves,Cotton,72,4.3
+991,Puma Goalkeeper Gloves,Golf,Gloves,Synthetic,73,3.7
+992,Puma Goalkeeper Gloves,Volleyball,Gloves,Synthetic,36,4.9
+993,Wilson Basketball,Rugby,Gloves,Polyester,175,3.6
+994,Reebok Running Shorts,Football,Gloves,Synthetic,38,3.7
+995,Adidas Predator,Cricket,Shoes,Cotton,179,3.9
+996,Asics Gel Nimbus,Football,Ball,Polyester,127,4.4
+997,Adidas X Pro Gloves,Baseball,Shoes,Cotton,161,3.7
+998,Puma Goalkeeper Gloves,Cricket,Shoes,Cotton,124,4.3
+999,Puma Goalkeeper Gloves,Baseball,Clothing,Polyester,131,4.2
+1000,Reebok Running Shorts,Volleyball,Gloves,Mesh,147,4.0

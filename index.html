@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Gear Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Sports Gear Recommendation System</h1>
+        <p>Enter the name of your favorite sports gear to get recommendations!</p>
+
+        <!-- Input Form -->
+        <form id="recommendForm">
+            <input type="text" id="gearName" name="gear_name" placeholder="Enter gear name..." required>
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        <!-- Display Recommendations -->
+        <div id="recommendations">
+            <h2>Recommendations</h2>
+            <ul id="recommendationList"></ul>
+        </div>
+    </div>
+
+    <script>
+        // Handle form submission
+        document.getElementById('recommendForm').onsubmit = async function (e) {
+            e.preventDefault();
+            const gearName = document.getElementById('gearName').value;
+
+            // Send POST request to server
+            const response = await fetch('/recommend', {
+                method: 'POST',
+                body: new URLSearchParams({ gear_name: gearName }),
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+            });
+
+            const data = await response.json();
+
+            // Update recommendation list
+            const recommendationList = document.getElementById('recommendationList');
+            recommendationList.innerHTML = ""; // Clear previous results
+            if (data.recommendations.length > 0) {
+                data.recommendations.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item;
+                    recommendationList.appendChild(li);
+                });
+            } else {
+                recommendationList.innerHTML = "<li>No recommendations found.</li>";
+            }
+        };
+    </script>
+</body>
+</html>
